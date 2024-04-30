@@ -1,0 +1,30 @@
+/* body{
+    background-color: pink;
+}
+h1{
+    background-color: green;
+    color: white;
+}
+h3{
+    background-color: rgb(85, 91, 172);
+    color: white;
+}
+p{
+    background-color: plum;
+}
+button{
+    background-color: red;
+    color: white;
+}
+a{
+    background-color: white;
+} */
+#box{
+    height: 200px;
+    width: 100px;
+    color: white;
+    background-color: blue;
+    border: 2px solid black;
+    margin: 5px;
+    align-items: center;
+}
